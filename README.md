@@ -5,3 +5,5 @@ TODO:
 -Make the install script.
 -Fix the admin panel so you can add new posts.
 -Fix the comment system so you can edit/delete your comment.
+./
+//Thanks, to Phentom for the original template.
